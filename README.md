@@ -30,5 +30,5 @@ Tutorial followed:
 
 ```bash
 pip install pytube
-python youtube_video_downloader.py
+python youtube video downloader.py
 ```
